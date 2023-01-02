@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/sandy9601/Project_05.git"
+      "url": "https://github.com/sandy9601/signUp.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/sandy9601/Project_05/issues"
+      "url": "https://github.com/sandy9601/signUp.git"
     },
-    "homepage": "https://github.com/sandy9601/Project_05#readme",
+    "homepage": "https://github.com/sandy9601/signUp.git",
     "dependencies": {
       "aws-sdk": "^2.1181.0",
       "bcrypt": "^5.0.1",
